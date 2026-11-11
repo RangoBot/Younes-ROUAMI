@@ -1,0 +1,7 @@
+{
+  "name": "NotionPlan - Smart Workspace & AI Calendar",
+  "description": "A Notion-style workspace integrating Google Tasks, AI-powered calendar scheduling, and phone notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
